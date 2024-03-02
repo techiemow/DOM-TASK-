@@ -5,7 +5,7 @@
 - I used javascript,CSS and HTML to complete the given task.
 - The form collects all the data and the push into a row assigned to their repective coloumns   
 
-url:
+url:https://htmlformsdom.netlify.app/
 
 OUTPUT Screenshot (for reference)
 -![](Screenshot%202024-03-02%20154232.png)
