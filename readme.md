@@ -2,7 +2,8 @@
 
 - I chose the **HTML Forms** task.    
 - The task is completed and all the codes are present in this file     
-- I used javascript,CSS and HTML to complete the given task.   
+- I used javascript,CSS and HTML to complete the given task.
+- The form collects all the data and the push into a row assigned to their repective coloumns   
 
 url:
 
