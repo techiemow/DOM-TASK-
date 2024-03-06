@@ -7,7 +7,7 @@
 
 - Bootstrap are used to display the necessary data in the screen as cards
 
--Use chrome for the Deployed URL for better display of openweatherAPI in parsed version
+- Use chrome for the Deployed URL for better display of openweatherAPI in parsed version
 
 - url :https://restcountries--restcountriestsk.netlify.app/
   
