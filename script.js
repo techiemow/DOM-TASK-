@@ -23,7 +23,8 @@ fetch("https://restcountries.com/v2/all")
             if (index % 3 === 0) {
                 // Create a new row for every three countries
                 row = document.createElement("div");
-                row.className = "row mb-5";
+                row.className = "row";
+                row.style.marginBottom = "30px"
                 row.style.display = "flex";
                 row.style.justifyContent = "space-evenly";
             }
